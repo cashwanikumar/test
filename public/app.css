@@ -25,3 +25,7 @@
 .highlightText { 
 	background-color: #fbff00;
 }
+
+.targetDrop {
+	border-left: 1px solid blue;
+}
