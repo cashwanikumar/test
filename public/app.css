@@ -1,0 +1,27 @@
+.show {
+	display: block;
+}
+
+.hide {
+	display: none;
+}
+
+.parentNode {
+	color: red;
+}
+
+.leafNode {
+	color: green;
+}
+
+.rootNode {
+	text-decoration : underline;
+}
+
+.boldNode {
+	font-weight: bold;
+}
+
+.highlightText { 
+	background-color: #fbff00;
+}
