@@ -159,7 +159,7 @@ var treeStructure = (function() {
 
     return {
         init: init,
-        reset: reset
+        restDom: restDom
     }
 }());
 
